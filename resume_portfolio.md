@@ -1,12 +1,3 @@
-# 이동우 | Backend Developer
-
-> 검증된 사실로 판단하고, 기술로 해결 구조를 만드는 개발자
-
-- Email: ys932184@gmail.com
-- GitHub: https://github.com/eastmeet-land
-
----
-
 ## (주)그리너리에서 한 일 (23.07 ~ 26.01)
 
 ```text
